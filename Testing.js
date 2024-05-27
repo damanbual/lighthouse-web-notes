@@ -4,6 +4,7 @@
 // Declare Function
 const assert = require('assert');
 
+// eslint-disable-next-line func-style
 function sayHello() {
   return 'hello there!';
 }
